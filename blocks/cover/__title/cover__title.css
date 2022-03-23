@@ -11,7 +11,7 @@
 
 @media screen and (max-width: 768px) {
     .cover__title {
-        max-width: calc(100% - 104px * 2)
+        max-width: calc(100% - 104px * 2);
     }
 }
 
