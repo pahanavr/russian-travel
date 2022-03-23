@@ -1,0 +1,31 @@
+.places {
+    width: 984px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    color: #fff;
+}
+
+@media screen and (max-width: 1280px) {
+    .places {
+        max-width: calc(100% - 148px * 2);
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .places {
+        max-width: calc(100% - 48px * 2);
+    }
+}
+
+@media screen and (max-width: 840px) {
+    .places {
+        max-width: calc(100% - 24px * 2);
+    }
+}
+
+@media screen and (max-width: 690px) {
+    .places {
+        max-width: 100%;
+    }
+}

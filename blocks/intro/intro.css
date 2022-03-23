@@ -1,0 +1,25 @@
+.intro {
+    width: 690px;
+    margin: 92px auto 0 148px;
+    color: #fff;
+}
+
+@media screen and (max-width: 1024px) {
+    .intro {
+        margin-left: 48px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .intro {
+        max-width: calc(100% - 24px * 2);
+        margin: 88px auto 24px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .intro {
+        max-width: calc(100% - 16px * 2);
+        margin: 64px auto 16px;
+    }
+}
