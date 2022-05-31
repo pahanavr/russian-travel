@@ -10,3 +10,9 @@
         max-height: 42px;
     }
 }
+
+.header__logo:hover {
+    opacity: 0.5;
+    transition: ease-in-out 0.3s;
+    transform: translate(10px);
+}
