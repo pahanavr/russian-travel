@@ -15,7 +15,5 @@
 
 Завершен.
 
-**GitHub Pages**
-
 Смотреть [Mesto](https://pahanavr.github.io/russian-travel/)
 
