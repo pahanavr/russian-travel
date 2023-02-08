@@ -1,19 +1,19 @@
-# Проект: Путешествие по России by pahanavr
+# Project: Russian travel
 
-**Описание**
+**Description**
 
-Проект про путешествия про России, в частности здесь описываются такие места как: Куршская коса, Кольский, Алтай, Байкал и Карелия.
+The project about traveling about Russia, in particular, such places as the Curonian Spit, Kola, Altai, Baikal and Karelia are described here.
 
-**Стек**
+**Tools**
 
 * HTML
 * CSS (flex, grid)
 * BEM
 * Adaptive design
 
-**Статус проекта**
+**Project status**
 
-Завершен.
+Done.
 
-Смотреть [Mesto](https://pahanavr.github.io/russian-travel/)
+Look [Mesto](https://pahanavr.github.io/russian-travel/)
 
